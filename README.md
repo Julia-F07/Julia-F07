@@ -10,6 +10,18 @@
 ---
 
 ## 💜 `> ABOUT_ME.exe`
+```text```
+╔══════════════════════════════════════════╗
+║              SYSTEM ONLINE               ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  👩‍💻 Estudante de Tecnologia              ║
+║  💾 Foco: Banco de Dados                 ║
+║  🐍 Estudando Python                     ║
+║  🗄️ Interessada em SQL                   ║
+║  🚀 Aprendendo e criando projetos        ║
+║                                          ║
+╚══════════════════════════════════════════╝
 ---
 
 ## ⚡ `> SKILLS.exe`
@@ -28,16 +40,5 @@
 
 </div>
 
-```text
-╔══════════════════════════════════════════╗
-║              SYSTEM ONLINE               ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  👩‍💻 Estudante de Tecnologia              ║
-║  💾 Foco: Banco de Dados                 ║
-║  🐍 Estudando Python                     ║
-║  🗄️ Interessada em SQL                   ║
-║  🚀 Aprendendo e criando projetos        ║
-║                                          ║
-╚══════════════════════════════════════════╝
+
 
