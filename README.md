@@ -53,22 +53,3 @@
 <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
-
-
----
-
-## ⚡ `> SKILLS.exe`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<img src="https://img.shields.io/badge/PostgreSQL-7B2CBF?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white">
-
-</div>
