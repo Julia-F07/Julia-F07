@@ -48,5 +48,7 @@
 <img src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-A855F7?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-8A2BE2?style=for-the-badge&logo=css3&logoColor=white">
 
 </div>
