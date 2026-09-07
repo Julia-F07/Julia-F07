@@ -10,7 +10,7 @@
 ---
 
 ## 💜 `> ABOUT_ME.exe`
-```text```
+```text
 ╔══════════════════════════════════════════╗
 ║              SYSTEM ONLINE               ║
 ╠══════════════════════════════════════════╣
@@ -22,6 +22,8 @@
 ║  🚀 Aprendendo e criando projetos        ║
 ║                                          ║
 ╚══════════════════════════════════════════╝
+
+
 ---
 
 ## ⚡ `> SKILLS.exe`
@@ -39,6 +41,3 @@
 <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
-
-
-
