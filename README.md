@@ -10,19 +10,6 @@
 ---
 
 ## 💜 `> ABOUT_ME.exe`
-
-```text
-╔══════════════════════════════════════════╗
-║              SYSTEM ONLINE               ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  👩‍💻 Estudante de Tecnologia              ║
-║  💾 Foco: Banco de Dados                 ║
-║  🐍 Estudando Python                     ║
-║  🗄️ Interessada em SQL                   ║
-║  🚀 Aprendendo e criando projetos        ║
-║                                          ║
-╚══════════════════════════════════════════╝
 ---
 
 ## ⚡ `> SKILLS.exe`
@@ -40,3 +27,17 @@
 <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
+
+```text
+╔══════════════════════════════════════════╗
+║              SYSTEM ONLINE               ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  👩‍💻 Estudante de Tecnologia              ║
+║  💾 Foco: Banco de Dados                 ║
+║  🐍 Estudando Python                     ║
+║  🗄️ Interessada em SQL                   ║
+║  🚀 Aprendendo e criando projetos        ║
+║                                          ║
+╚══════════════════════════════════════════╝
+
