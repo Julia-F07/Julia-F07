@@ -16,7 +16,7 @@
 ║              SYSTEM ONLINE               ║
 ╠══════════════════════════════════════════╣
 ║                                          ║
-║  👩‍💻 Estudante de Tecnologia             ║
+║  👩‍💻 Estudante de Tecnologia              ║
 ║  💾 Foco: Banco de Dados                 ║
 ║  🐍 Estudando Python                     ║
 ║  🗄️ Interessada em SQL                   ║
