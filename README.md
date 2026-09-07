@@ -10,18 +10,49 @@
 ---
 
 ## 💜 `> ABOUT_ME.exe`
-```text
+---
+
+<h2>💜 &gt; ABOUT_ME.exe</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<pre>
 ╔══════════════════════════════════════════╗
 ║              SYSTEM ONLINE               ║
 ╠══════════════════════════════════════════╣
 ║                                          ║
-║  👩‍💻 Estudante de Tecnologia              ║
+║  👩‍💻 Estudante de Tecnologia             ║
 ║  💾 Foco: Banco de Dados                 ║
 ║  🐍 Estudando Python                     ║
 ║  🗄️ Interessada em SQL                   ║
 ║  🚀 Aprendendo e criando projetos        ║
 ║                                          ║
 ╚══════════════════════════════════════════╝
+</pre>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2>⚡ &gt; SKILLS.exe</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-7B2CBF?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
 
 
 ---
